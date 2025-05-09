@@ -1,4 +1,4 @@
-![Page2 - MR3121](https://github.com/user-attachments/assets/07e17e72-43a2-41db-858d-73d3918611d6)# MAKISIG RESCUE 3121 EMERGENCY ALERTING APP WITH GIS MAPPING & TRACKING SYSTEM (2019)
+# MAKISIG RESCUE 3121 EMERGENCY ALERTING APP WITH GIS MAPPING & TRACKING SYSTEM (2019)
 
 **Capstone Project**
 
@@ -10,8 +10,6 @@ MAKISIG RESCUE 3121 is an emergency alerting system designed to enhance response
 The system uses **Google Firebase Realtime Database** for live location updates and **Leaflet.js** for interactive GIS mapping.
 
 > ⚠️ This project is no longer maintained and serves as an archive of my early work.
-
----
 
 ## 🛠️ Tech Stack
 
