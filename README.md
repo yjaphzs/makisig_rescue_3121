@@ -11,6 +11,8 @@ The system uses **Google Firebase Realtime Database** for live location updates 
 
 > ⚠️ This project is no longer maintained and serves as an archive of my early work.
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Framework
@@ -19,7 +21,6 @@ The system uses **Google Firebase Realtime Database** for live location updates 
 ### Programming Languages
 - PHP
 - HTML / CSS / JavaScript
-
 
 ### Libraries & Tools
 - [jQuery](https://jquery.com/)
@@ -38,18 +39,20 @@ The system uses **Google Firebase Realtime Database** for live location updates 
 **IDE:**
 - [Android Studio](https://developer.android.com/studio)
 
-**Features:**
+---
+
+## 🤖 Android Application Features
 - Sends emergency alert with exact location
 - Uses Firebase to push location data in real time
-- Designed to be lightweight and user-friendly
 
 ## 🌐 Web Application Features
-
 - Admin dashboard to view and manage incidents
 - Real-time location tracking via Firebase
 - Interactive map using Leaflet.js
 - Data visualization with Chart.js
 - Integration with Vonage for emergency alerts
+
+---
 
 ## 🚀 Installation (Web App)
 
@@ -74,6 +77,8 @@ Example for Apache (add to httpd-vhosts.conf):
 3. Access the site in your browser using the configured local domain:
     ```bash
     http://makisig-rescue-3121.local
+
+---
 
 ## 📸 Screenshots
 ![Page2 - MR3121](https://github.com/user-attachments/assets/f42fb136-3cb5-4bf4-a10b-969ee20ec8b0)
