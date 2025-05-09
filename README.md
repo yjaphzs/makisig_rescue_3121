@@ -1,4 +1,4 @@
-# MAKISIG RESCUE 3121 EMERGENCY ALERTING APP WITH GIS MAPPING & TRACKING SYSTEM
+![Page2 - MR3121](https://github.com/user-attachments/assets/07e17e72-43a2-41db-858d-73d3918611d6)# MAKISIG RESCUE 3121 EMERGENCY ALERTING APP WITH GIS MAPPING & TRACKING SYSTEM (2019)
 
 **Capstone Project**
 
@@ -45,8 +45,6 @@ The system uses **Google Firebase Realtime Database** for live location updates 
 - Uses Firebase to push location data in real time
 - Designed to be lightweight and user-friendly
 
----
-
 ## 🌐 Web Application Features
 
 - Admin dashboard to view and manage incidents
@@ -54,8 +52,6 @@ The system uses **Google Firebase Realtime Database** for live location updates 
 - Interactive map using Leaflet.js
 - Data visualization with Chart.js
 - Integration with Vonage for emergency alerts
-
----
 
 ## 🚀 Installation (Web App)
 
@@ -80,3 +76,13 @@ Example for Apache (add to httpd-vhosts.conf):
 3. Access the site in your browser using the configured local domain:
     ```bash
     http://makisig-rescue-3121.local
+
+## 📸 Screenshots
+![Page2 - MR3121](https://github.com/user-attachments/assets/f42fb136-3cb5-4bf4-a10b-969ee20ec8b0)
+
+![Page2 - MR3121 - Web](https://github.com/user-attachments/assets/ff1caa71-d702-4758-8f7a-3b792bb2ddaf)
+
+![Page2 - MR3121 - Android App](https://github.com/user-attachments/assets/71fb8b46-befd-46da-8e15-9bdc9edbadb0)
+
+![Page2 - MR3121 - Tools](https://github.com/user-attachments/assets/3d5636b4-9485-45ce-9a4c-57736fa6280a)
+
