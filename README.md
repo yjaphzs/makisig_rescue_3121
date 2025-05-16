@@ -1,6 +1,6 @@
 # MAKISIG RESCUE 3121 EMERGENCY ALERTING APP WITH GIS MAPPING & TRACKING SYSTEM (2019)
 
-**Capstone Project**
+**Undergraduate Capstone Project**
 
 MAKISIG RESCUE 3121 is an emergency alerting system designed to enhance response time and coordination for health and emergency volunteers. It is composed of two main components:
 
